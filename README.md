@@ -4,10 +4,10 @@ Code is on master branch <br />
 You can watch the tutorial here (notice: Vietnamese language): https://www.youtube.com/watch?v=zjuhR6K6wmw
 
 # Features
-Upload single image to cloudinary
-Get images from a cloudinary folder
+Upload single image to cloudinary <br />
+Get images from a cloudinary folder <br />
 
-# Requirements
-Nodejs installed
-A free cloudinary account
+# Requirements 
+Nodejs installed <br />
+A free cloudinary account <br />
 
